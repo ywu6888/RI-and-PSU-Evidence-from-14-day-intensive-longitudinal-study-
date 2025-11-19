@@ -1,5 +1,5 @@
 TITLE: 1-1-1 mediation radomslope(MSEM) 
-DATA: FILE = D:/大学资料/休息羞耻所有课题/休息羞耻文章文件夹/MPAI_MSEM.csv; 
+DATA: FILE = D:/MPAI_MSEM.csv; 
 VARIABLE: NAMES ARE 
 y x m gender age h id time; !y = MPAI/ST, x = RI, m = SA
 
@@ -38,4 +38,5 @@ a=aw+ab; ! compute Between a path
 b=bw+bb; ! compute Between b path
 indw=aw*bw+cab; ! compute the Within indirect effect 
 indb=a*b; ! compute the Between indirect effect 
+
 OUTPUT: TECH1 TECH8 CINTERVAL;
