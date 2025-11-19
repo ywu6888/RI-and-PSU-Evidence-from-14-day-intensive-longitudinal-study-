@@ -1,4 +1,4 @@
-Number,Time,ST,RI,AX,Age,Gender,holiday
+Number,Time,ST,RI,AX,Gender,Age,holiday
 1,12,11.04848833,3.5,4,1,23,1
 1,1,11.7440675,2,2,1,23,0
 1,2,6.658162778,1,5,1,23,0
@@ -1556,3 +1556,4 @@ Number,Time,ST,RI,AX,Age,Gender,holiday
 127,12,11.90836417,4,2,1,26,1
 127,13,10.13232306,4,1,1,26,1
 127,14,10.89044917,4,2,1,26,1
+
